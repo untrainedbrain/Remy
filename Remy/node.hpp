@@ -1,7 +1,7 @@
 //
 //  node.hpp
 //  Remy
-//
+// 
 //  Created by Race Vanderdecken on 1/5/18.
 //  Copyright © 2018 The Untrained Brain Co. All rights reserved.
 //
